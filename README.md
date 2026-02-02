@@ -1,4 +1,4 @@
-# IdeaDiary
+
 # IdeaDiary
 
 IdeaDiary is a personal project for managing and organizing ideas efficiently. 
